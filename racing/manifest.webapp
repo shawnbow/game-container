@@ -1,0 +1,19 @@
+{
+  "name": "Racing", 
+  "default_locale": "en", 
+  "icons": {
+    "16": "/app-icons/icon.png"
+  },
+  "orientation": "portrait", 
+  "version": "0.1", 
+  "launch_path": "/index.html", 
+  "developer": {
+    "url": "http://www.egret.com", 
+    "name": "Egret"
+  }, 
+  "type": "privileged", 
+  "permissions": {
+    "browser": {}
+  },
+  "description": "Speed is needed"
+}
